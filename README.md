@@ -1,1 +1,1 @@
-# sp777
+print("hello world")
